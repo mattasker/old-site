@@ -11,31 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhys. in Physics with Theoretical Physics, University of Manchester, 2021
+* Ph.D in Applied Mathematics, University of Leeds, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Assistant
+  * Partnership for Advanced Computing in Europe (PRACE)
+  * Duties included: Producing meshes of submarines for CFD simulations, running simulations on HPC cluster, and writing weekly blog posts detailing the experience, finishing with a report and [video presentation](https://www.youtube.com/watch?v=k5DGXlNK8qc).
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +40,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organised the Applied PGR Seminar Series for 2022.
+* Volunteered for two years during my undergraduate to tutor 10 first year physics students, providing support for their studies.
+* Fundraised £2595 for the Ace Lighthouse Academy in Malaysia, to aid the socio-economically marginalised Orang Asli children.
