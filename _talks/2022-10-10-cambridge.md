@@ -1,6 +1,5 @@
 ---
-title: "Eco-evolutionary dynamics
-in a switching antimicrobial environment"
+title: "Eco-evolutionary dynamics in a switching antimicrobial environment"
 collection: talks
 type: "Poster"
 permalink: /talks/2022-10-10-UMCW06
