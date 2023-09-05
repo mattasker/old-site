@@ -11,5 +11,3 @@ citation: 'Asker, M., Hernández-Navarro, L., Rucklidge, A.M. and Mobilia, M. (2
 
 [Download paper here](http://arxiv.org/abs/2307.06314)
 
-Recommended citation: Asker, M., Hernández-Navarro, L., Rucklidge, A.M. and Mobilia, M., 2023. Coexistence of Competing Microbial Strains under Twofold Environmental Variability and Demographic Fluctuations. <i>arXiv preprint arXiv:2307.06314</i>.
-
