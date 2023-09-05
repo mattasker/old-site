@@ -10,10 +10,10 @@ locale                   : "en-GB"
 title                    : "Matthew Asker"
 title_separator          : "-"
 name                     : &name "Matthew Asker"
-description              : &description "I completed my undergraduate master’s degree in Theoretical Physics at the University of Manchester (2017-2021) where my master’s thesis investigated the use of modified percolation in modelling the spread of COVID-19. My main interests are in mathematical biology, population dynamics, and evolutionary game theory. In my current research, I am considering the interplay between ecological and evolutionary processes in populations of bacteria, and hope to unveil a deeper understanding of how fluctuations can impact the outcomes of such systems. These findings are relevant to the global issue of antimicrobial resistance (AMR), and so could have implications for the clinical use of antimicrobials."
+description              : &description "PhD Student at the University of Leeds"
 url                      : https://mattasker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mattasker.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,11 +83,11 @@ author:
   name             : "Matthew Asker"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Leeds, UK"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=jYiMq3gAAAAJ&hl=en"
+  email            : "mmmwa@leeds.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mattasker"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-5548-5535"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "askermatthew"
   vine             :
   weibo            :
   xing             :
