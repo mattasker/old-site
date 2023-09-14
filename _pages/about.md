@@ -18,4 +18,4 @@ Here you will find everything to do with my publications, talks, teaching, and a
 
 If you would like to get in contact with me, please do so on my email: mmmwa@leeds.ac.uk.
 
-I also maintain the website for the research group I am currently part of, which can be found here: eedfp.com.
+I also maintain the website for the research group I am currently part of, which can be found here: [eedfp.com](https://eedfp.com).
