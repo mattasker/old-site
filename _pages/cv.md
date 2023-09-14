@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Applied Mathematics, University of Leeds, 2024 (expected)
 * MPhys. in Physics with Theoretical Physics, University of Manchester, 2021 (First Class)
-* A Levels, King Edward VI School, Mathematics - A*, Physics - A*, Computer Science - A*, AS Further Maths - A
+* A Levels, King Edward VI School, Mathematics - A\*, Physics - A\*, Computer Science - A\*, AS Further Maths - A
 
 Work experience
 ======
