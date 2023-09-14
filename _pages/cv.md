@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* MPhys. in Physics with Theoretical Physics, University of Manchester, 2021
 * Ph.D in Applied Mathematics, University of Leeds, 2024 (expected)
+* MPhys. in Physics with Theoretical Physics, University of Manchester, 2021 (First Class)
+* A Levels, King Edward VI School, Mathematics - A*, Physics - A*, Computer Science - A*, AS Further Maths - A
 
 Work experience
 ======
@@ -41,5 +42,6 @@ Teaching
 Service and leadership
 ======
 * Organised the Applied PGR Seminar Series for 2022.
+* Setup and now maintain the website for my current research group: [eedfp.com](https://eedfp.com).
 * Volunteered for two years during my undergraduate to tutor 10 first year physics students, providing support for their studies.
 * Fundraised £2595 for the Ace Lighthouse Academy in Malaysia, to aid the socio-economically marginalised Orang Asli children.
