@@ -1,6 +1,6 @@
 ---
 permalink: /opportunities/
-title: "Opportunities"
+title: "Opportunities & seminars in mathematical biology"
 author_profile: true
 ---
 
