@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /opportunities/
 title: "Opportunities"
 author_profile: true
 redirect_from: 
