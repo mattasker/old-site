@@ -4,8 +4,8 @@ title: "Opportunities"
 author_profile: true
 ---
 
-Here is a list of all mathematical biology related opportunities I am aware of that an 
-interested undergraduate or graduate student might be interested in.
+Here is a list of all mathematical biology related opportunities and seminars I am aware of that an 
+interested undergraduate or graduate student might want to know about.
 
 Note: this is by no means a complete account of all opportunities available. If you are aware of any others then please get
 in contact and let me know!
