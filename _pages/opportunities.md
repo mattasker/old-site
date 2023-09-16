@@ -1,10 +1,9 @@
 ---
 permalink: /
 title: "Opportunities"
-excerpt: "Opportunities"
 author_profile: true
 redirect_from: 
-  - /opportunities/
+  - /opportunities
   - /opportunities.html
 ---
 
