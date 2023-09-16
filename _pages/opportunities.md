@@ -2,9 +2,6 @@
 permalink: /opportunities/
 title: "Opportunities"
 author_profile: true
-redirect_from: 
-  - /opportunities
-  - /opportunities.html
 ---
 
 Here is a list of all mathematical biology related opportunities I am aware of that an 
