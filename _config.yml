@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Matthew Asker"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD Student in Applied Mathematics"
+  bio              : "PhD Student in Applied Mathematics, University of Leeds"
   location         : "Leeds, UK"
-  employer         : "University of Leeds"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jYiMq3gAAAAJ&hl=en"
   email            : "mmmwa@leeds.ac.uk"
