@@ -8,5 +8,6 @@ date: 2022-10-10
 location: "Cambridge, UK"
 ---
 Here, I presented the first year of my research. This was a fantastic opportunity to meet people from both the biological and mathematical sides of the coin, and many good discussions were had.
-[More information here](https://www.newton.ac.uk/event/umcw06/)
+[See my poster here](https://github.com/mattasker/mattasker.github.io/files/12749016/MatthewAsker-Poster-UMCW06.pdf).
+[More information here](https://www.newton.ac.uk/event/umcw06/).
 ![IMG20221011194005_01](https://github.com/mattasker/mattasker.github.io/assets/36448551/3d4ea31e-d82e-4d62-8600-f00a5dece41b)
