@@ -86,9 +86,9 @@ author:
   location         : "Leeds, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "matthew.asker@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=jYiMq3gAAAAJ&hl=en"
   email            : "mmmwa@leeds.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Matthew-Asker/" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
