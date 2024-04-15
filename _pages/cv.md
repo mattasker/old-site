@@ -56,3 +56,5 @@ Service and leadership
 * Setup and now maintain the website for my current research group: [eedfp.com](https://eedfp.com).
 * Volunteered for two years during my undergraduate to tutor 10 first year physics students, providing support for their studies.
 * Fundraised £2595 for the Ace Lighthouse Academy in Malaysia, to aid the socio-economically marginalised Orang Asli children.
+
+[View PDF of detailed CV here](files/CV.pdf)
