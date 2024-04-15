@@ -9,25 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Applied Mathematics, University of Leeds, 2024 (expected)
-* MPhys. in Physics with Theoretical Physics, University of Manchester, 2021 (First Class)
-* A Levels, King Edward VI School, Mathematics - A\*, Physics - A\*, Computer Science - A\*, AS Further Maths - A
-
-Work experience
-======
-* Summer 2020: Research Assistant
-  * Partnership for Advanced Computing in Europe (PRACE)
-  * Duties included: Producing meshes of submarines for CFD simulations, running simulations on HPC cluster, and writing weekly blog posts detailing the experience, finishing with a report and [video presentation](https://www.youtube.com/watch?v=k5DGXlNK8qc).
-  
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Education
+======
+* Ph.D in Applied Mathematics, University of Leeds, 2025 (expected)
+* MPhys. in Physics with Theoretical Physics, University of Manchester, 2021 (First Class)
+* A Levels, King Edward VI School, Mathematics - A\*, Physics - A\*, Computer Science - A\*, AS Further Maths - A
+
+Dissemination
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -38,6 +32,22 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Workshops
+======
+* L24EEDs Workshop: I co-organised the Leeds 2024 Eco-Evolutionary Dynamics workshop on “Mathematical modelling of microbial communities: cooperation, dynamics, and resistance”, with ∼80 attendees (9 invited speakers, 20 contributed speakers) from 9th-12th July 2024.
+
+Grants & Awards
+======
+* ECR Travel Grant - London Mathematical Society: an award of £500 to provide partial support for UK-based ECRs to attend conferences or undertake research visits.
+* Physics Entrance Scholarship - University of Manchester : an award of £1000 for outstanding results (A*A*A*) in pre-university exams.
+* Best talk in Applied Mathematics - University of Leeds: a prize given to the best talk in the applied department at the annual PGR conference in the School of Mathematics.
+
+Other experience
+======
+* Summer 2020: Research Assistant
+  * Partnership for Advanced Computing in Europe (PRACE)
+  * Duties included: Producing meshes of submarines for CFD simulations, running simulations on HPC cluster, and writing weekly blog posts detailing the experience, finishing with a report and [video presentation](https://www.youtube.com/watch?v=k5DGXlNK8qc).
   
 Service and leadership
 ======
