@@ -19,10 +19,10 @@ Publications
   
 Grants & Awards
 ======
-* ECR Travel Grant - London Mathematical Society: an award of £500 to provide partial support for UK-based ECRs to attend conferences or undertake research visits.
-* Best talk in Applied Mathematics - University of Leeds: a prize given to the best talk in the applied department at the annual PGR conference in the School of Mathematics.
-* PRACE Summer of HPC Scholarship - Partnership for Advanced Computing in Europe (PRACE): a scholarship covering accommodation, travel costs, and a stipend for an intensive 2 month research programme at a HPC centre in Europe.
-* Physics Entrance Scholarship - University of Manchester: an award of £1000 for outstanding results (A\*A\*A\*) in pre-university exams.
+* 2024: <b>ECR Travel Grant</b> - <i>London Mathematical Society</i>: an award of £500 to provide partial support for UK-based ECRs to attend conferences or undertake research visits.
+* 2023: <b>Best talk in Applied Mathematics</b> - <i>University of Leeds</i>: a prize given to the best talk in the applied department at the annual PGR conference in the School of Mathematics.
+* 2020: <b>PRACE Summer of HPC Scholarship</b> - <i>Partnership for Advanced Computing in Europe (PRACE)</i>: a scholarship covering accommodation, travel costs, and a stipend for an intensive 2 month research programme at a HPC centre in Europe.
+* 2017: <b>Physics Entrance Scholarship</b> - <i>University of Manchester</i>: an award of £1000 for outstanding results (A\*A\*A\*) in pre-university exams.
 
 Workshops
 ======
@@ -30,9 +30,9 @@ Workshops
 
 Education
 ======
-* Ph.D in Applied Mathematics, University of Leeds, 2025 (expected)
-* MPhys. in Physics with Theoretical Physics, University of Manchester, 2021 (First Class)
-* A Levels, King Edward VI School, Mathematics - A\*, Physics - A\*, Computer Science - A\*, AS Further Maths - A
+* 2021-2025 (expected): Ph.D in Applied Mathematics, University of Leeds
+* 2017-2021: MPhys. in Physics with Theoretical Physics, University of Manchester, First Class
+* 2015-2017: A Levels, King Edward VI School, Mathematics - A\*, Physics - A\*, Computer Science - A\*, AS Further Maths - A
 
 Dissemination
 ======
