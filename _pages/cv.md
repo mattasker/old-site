@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View PDF of detailed CV here](/files/CV.pdf)
+[View PDF of detailed CV here](/files/CV070624.pdf)
 
 Publications
 ======
