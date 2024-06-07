@@ -17,6 +17,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Grants & Awards
+======
+* ECR Travel Grant - London Mathematical Society: an award of £500 to provide partial support for UK-based ECRs to attend conferences or undertake research visits.
+* Best talk in Applied Mathematics - University of Leeds: a prize given to the best talk in the applied department at the annual PGR conference in the School of Mathematics.
+* PRACE Summer of HPC Scholarship - Partnership for Advanced Computing in Europe (PRACE): a scholarship covering accommodation, travel costs, and a stipend for an intensive 2 month research programme at a HPC centre in Europe.
+* Physics Entrance Scholarship - University of Manchester: an award of £1000 for outstanding results (A\*A\*A\*) in pre-university exams.
+
+Workshops
+======
+* L24EEDs Workshop: I co-organised the Leeds 2024 Eco-Evolutionary Dynamics workshop on “Mathematical modelling of microbial communities: cooperation, dynamics, and resistance”, with ∼80 attendees (9 invited speakers, 20 contributed speakers) from 9th-12th July 2024.
+
 Education
 ======
 * Ph.D in Applied Mathematics, University of Leeds, 2025 (expected)
@@ -34,17 +45,6 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Workshops
-======
-* L24EEDs Workshop: I co-organised the Leeds 2024 Eco-Evolutionary Dynamics workshop on “Mathematical modelling of microbial communities: cooperation, dynamics, and resistance”, with ∼80 attendees (9 invited speakers, 20 contributed speakers) from 9th-12th July 2024.
-
-Grants & Awards
-======
-* ECR Travel Grant - London Mathematical Society: an award of £500 to provide partial support for UK-based ECRs to attend conferences or undertake research visits.
-* Physics Entrance Scholarship - University of Manchester: an award of £1000 for outstanding results (A\*A\*A\*) in pre-university exams.
-* Best talk in Applied Mathematics - University of Leeds: a prize given to the best talk in the applied department at the annual PGR conference in the School of Mathematics.
-* PRACE Summer of HPC Scholarship - Partnership for Advanced Computing in Europe (PRACE): a scholarship covering accommodation, travel costs, and a stipend for an intensive 2 month research programme at a HPC centre in Europe.
   
 Service and leadership
 ======
