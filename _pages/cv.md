@@ -44,12 +44,7 @@ Grants & Awards
 * ECR Travel Grant - London Mathematical Society: an award of £500 to provide partial support for UK-based ECRs to attend conferences or undertake research visits.
 * Physics Entrance Scholarship - University of Manchester: an award of £1000 for outstanding results (A\*A\*A\*) in pre-university exams.
 * Best talk in Applied Mathematics - University of Leeds: a prize given to the best talk in the applied department at the annual PGR conference in the School of Mathematics.
-
-Other experience
-======
-* Summer 2020: Research Assistant
-  * Partnership for Advanced Computing in Europe (PRACE)
-  * Duties included: Producing meshes of submarines for CFD simulations, running simulations on HPC cluster, and writing weekly blog posts detailing the experience, finishing with a report and [video presentation](https://www.youtube.com/watch?v=k5DGXlNK8qc).
+* PRACE Summer of HPC scholarship - Partnership for Advanced Computing in Europe (PRACE): a scholarship covering accommodation, travel costs, and a stipend for an intensive 2 month research programme at a HPC centre in Europe.
   
 Service and leadership
 ======
