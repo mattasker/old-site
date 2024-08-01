@@ -21,4 +21,4 @@ You can find me on Twitter: [@askermatthew](https://twitter.com/askermatthew)
 
 I maintain the website for the Eco-Evolutionary Dynamics of Fluctuating Populations research group that I am part of, which can be found here: [eedfp.com](https://eedfp.com).
 
-Check out the L24EEDs workshop that I co-organised (Leeds, 9th-12th July 2024): [eedfp.com](https://eedfp.com/l24eeds-workshop)
+Check out the L24EEDs workshop that I co-organised (Leeds, 9th-12th July 2024): [eedfp.com/L24EEDs-workshop](https://eedfp.com/l24eeds-workshop)
