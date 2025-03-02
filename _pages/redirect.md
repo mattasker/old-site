@@ -1,4 +1,4 @@
 ---
-permalink: /
-redirect_to: https://masker.science
+layout: redirect
+redirect_to: "https://masker.science"
 ---
